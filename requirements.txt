@@ -1,0 +1,16 @@
+flask==3.0.3
+pymupdf==1.24.10
+tabula-py==2.9.3
+spacy==3.8.0
+python-dateutil==2.9.0
+sentence-transformers==3.2.0
+pillow==10.4.0
+transformers==4.44.2
+docling
+doctr-io==0.7.0
+pdf2image>=1.17.0
+torch>=2.0.0
+torchvision>=0.15.0
+pytest
+pytest-cov
+pytest-mock
